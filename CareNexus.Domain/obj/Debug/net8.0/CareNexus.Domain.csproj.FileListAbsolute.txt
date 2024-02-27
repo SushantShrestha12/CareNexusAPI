@@ -9,3 +9,4 @@
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/refint/CareNexus.Domain.dll
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.pdb
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/ref/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.sourcelink.json

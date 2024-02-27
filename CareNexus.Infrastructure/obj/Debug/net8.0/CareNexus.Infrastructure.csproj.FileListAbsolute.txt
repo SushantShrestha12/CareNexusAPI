@@ -15,3 +15,4 @@
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.pdb
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.genruntimeconfig.cache
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/ref/CareNexus.Infrastructure.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.sourcelink.json

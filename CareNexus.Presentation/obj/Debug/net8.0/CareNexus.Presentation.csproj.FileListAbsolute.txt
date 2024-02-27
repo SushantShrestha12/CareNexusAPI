@@ -111,3 +111,4 @@
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Presentation/obj/Debug/net8.0/CareNexus.Presentation.pdb
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Presentation/obj/Debug/net8.0/CareNexus.Presentation.genruntimeconfig.cache
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Presentation/obj/Debug/net8.0/ref/CareNexus.Presentation.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Presentation/obj/Debug/net8.0/CareNexus.Presentation.sourcelink.json

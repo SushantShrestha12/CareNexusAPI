@@ -15,3 +15,4 @@
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/refint/CareNexus.Application.dll
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.pdb
 /Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/ref/CareNexus.Application.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.sourcelink.json

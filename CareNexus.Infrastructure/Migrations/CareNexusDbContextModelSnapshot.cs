@@ -19,6 +19,20 @@ namespace CareNexus.Infrastructure.Migrations
                 .HasAnnotation("ProductVersion", "8.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("CareNexus.Domain.LandingPages.Login", b =>
+                {
+                    b.Property<string>("Email")
+                        .HasColumnType("varchar(255)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Email");
+
+                    b.ToTable("Logins");
+                });
+
             modelBuilder.Entity("CareNexus.Domain.LandingPages.Signup", b =>
                 {
                     b.Property<Guid>("Id")

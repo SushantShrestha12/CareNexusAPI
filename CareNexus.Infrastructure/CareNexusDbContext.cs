@@ -11,7 +11,7 @@ public class CareNexusDbContext: DbContext
     }
     
     public DbSet<Signup> Signups { get; set; }
-    //public DbSet<Login> Logins { get; set; }
+    public DbSet<Login> Logins { get; set; }
     
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
