@@ -1,0 +1,17 @@
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Application.deps.json
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Application.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Application.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Infrastructure.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Domain.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/bin/Debug/net8.0/CareNexus.Infrastructure.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.csproj.AssemblyReference.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.AssemblyInfoInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.AssemblyInfo.cs
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.csproj.CoreCompileInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.csproj.CopyComplete
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/refint/CareNexus.Application.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/CareNexus.Application.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Application/obj/Debug/net8.0/ref/CareNexus.Application.dll

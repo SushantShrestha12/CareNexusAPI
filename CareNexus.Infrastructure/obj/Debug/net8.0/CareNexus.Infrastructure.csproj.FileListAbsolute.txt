@@ -1,0 +1,17 @@
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Infrastructure.deps.json
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Infrastructure.runtimeconfig.json
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Infrastructure.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Infrastructure.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/bin/Debug/net8.0/CareNexus.Domain.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.csproj.AssemblyReference.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.AssemblyInfoInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.AssemblyInfo.cs
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.csproj.CopyComplete
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/refint/CareNexus.Infrastructure.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/CareNexus.Infrastructure.genruntimeconfig.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Infrastructure/obj/Debug/net8.0/ref/CareNexus.Infrastructure.dll

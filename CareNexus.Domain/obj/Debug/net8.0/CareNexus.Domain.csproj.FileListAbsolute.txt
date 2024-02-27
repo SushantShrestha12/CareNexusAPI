@@ -1,0 +1,11 @@
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/bin/Debug/net8.0/CareNexus.Domain.deps.json
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/bin/Debug/net8.0/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/bin/Debug/net8.0/CareNexus.Domain.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.AssemblyInfoInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.AssemblyInfo.cs
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.csproj.CoreCompileInputs.cache
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/refint/CareNexus.Domain.dll
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/CareNexus.Domain.pdb
+/Users/sushantshrestha/RiderProjects/CareNexus/CareNexus.Domain/obj/Debug/net8.0/ref/CareNexus.Domain.dll
