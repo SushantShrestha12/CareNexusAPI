@@ -6,7 +6,7 @@ namespace CareNexus.Application.LandingPages;
 using MediatR;
 
 
-public class SignupCreateRequest: IRequest<Signup>
+public class SignupCreateRequest: IRequest<Signup>, IRequest<List<Signup>>
 {
     public string FullName { get;  set; }
     public string PhoneNumber { get; set; }

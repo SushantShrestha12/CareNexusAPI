@@ -22,17 +22,23 @@ public class LoginController: ControllerBase
     [HttpPost]
     public async Task<IActionResult> GetAccess(LoginCreate login)
     {
-        if (IsValidUser(login.Email, login.Password))
+        var signupRecord = new SignupGetRequest();
+
+        if (signupRecord != null)
         {
-            var command = new LoginCreateRequest
+            if (IsValidUser(login.Email, login.Password))
             {
-                Email = login.Email,
-                Password = login.Password
-            };
-            var result = await _mediator.Send(command);
-            return Ok(result);
+                return Ok("Access granted");
+            }
+            else
+            {
+                return Unauthorized("Invalid email or password");
+            }
         }
-        return Unauthorized();
+        else
+        {
+            return Unauthorized("Invalid email or password");
+        }
     }
 
     private bool IsValidUser(string username, string password)
