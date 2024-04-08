@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CareNexus.Controllers;
 
 [ApiController]
-[Route("[controller]/[action]")]
+[Route("[controller]")]
 public class SignupController: ControllerBase
 {
     private readonly IMediator _mediator;

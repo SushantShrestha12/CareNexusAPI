@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareNexus.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8b17d860e50df4b16dc473bdda8dc8d5dd6491")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e16b02ec71b9a58c7ac1fb44c906d4fd5e1ca80")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareNexus.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareNexus.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
